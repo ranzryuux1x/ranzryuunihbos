@@ -6,15 +6,56 @@
   "botDescription": "Bot pintar untuk menemani aktivitas digitalmu.",
   "botWhatsapp": "60xxxxxx",
   "platforms": [
-    { "name": "GitHub", "handle": "Open source / projects", "url": "https://github.com/" },
-    { "name": "YouTube", "handle": "Videos & anime content", "url": "https://youtube.com/" },
-    { "name": "Telegram", "handle": "Chat with RanzRyuu", "url": "https://t.me/" },
-    { "name": "Telegram Group", "handle": "Join the community", "url": "https://t.me/" },
-    { "name": "Telegram Channel", "handle": "News & updates", "url": "https://t.me/" },
-    { "name": "WhatsApp Wame", "handle": "Direct contact", "url": "https://wa.me/60xxxxxx" },
-    { "name": "WhatsApp GB", "handle": "WA GB community", "url": "https://chat.whatsapp.com/" },
-    { "name": "WhatsApp CH", "handle": "WhatsApp channel", "url": "https://whatsapp.com/channel/" },
-    { "name": "Instagram", "handle": "Visual diary", "url": "https://instagram.com/" },
-    { "name": "TikTok", "handle": "Short anime vibes", "url": "https://tiktok.com/" }
-  ]
+    {
+      "name": "GitHub",
+      "handle": "Open source / projects",
+      "url": "https://github.com/"
+    },
+    {
+      "name": "YouTube",
+      "handle": "Videos & anime content",
+      "url": "https://youtube.com/"
+    },
+    {
+      "name": "Telegram",
+      "handle": "Chat with RanzRyuu",
+      "url": "https://t.me/"
+    },
+    {
+      "name": "Telegram Group",
+      "handle": "Join the community",
+      "url": "https://t.me/"
+    },
+    {
+      "name": "Telegram Channel",
+      "handle": "News & updates",
+      "url": "https://t.me/"
+    },
+    {
+      "name": "WhatsApp Wame",
+      "handle": "Direct contact",
+      "url": "https://wa.me/60xxxxxx"
+    },
+    {
+      "name": "WhatsApp GB",
+      "handle": "WA GB community",
+      "url": "https://chat.whatsapp.com/"
+    },
+    {
+      "name": "WhatsApp CH",
+      "handle": "WhatsApp channel",
+      "url": "https://whatsapp.com/channel/"
+    },
+    {
+      "name": "Instagram",
+      "handle": "Visual diary",
+      "url": "https://instagram.com/"
+    },
+    {
+      "name": "TikTok",
+      "handle": "Short anime vibes",
+      "url": "https://tiktok.com/"
+    }
+  ],
+  "wallpaper": ""
 }
